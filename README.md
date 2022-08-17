@@ -1,5 +1,5 @@
 # A 'Major Corporation' in the 1980s and 1990s Analysis
-# sql-challenge
+## (sql-challenge)
 
 
 ## Context
@@ -7,7 +7,8 @@ In this week's challenge, there will be demostrations of designing tables to hol
 
 
 ### Data Modeling:
-![ERD](EmployeeSQL/employee_ERD.png) - Diagram image of all existing tables within 'data' folder.
+- Diagram image of all existing tables within 'data' folder:
+![ERD](EmployeeSQL/employee_ERD.png)
 
 
 ### Data Engineering
@@ -36,7 +37,7 @@ In this week's challenge, there will be demostrations of designing tables to hol
 ### BONUS!
 [Bonus](EmployeeSQL/employee_bonus.ipynb) - Bonus activity for assignment
 
-* Tasks: 
+#### Tasks: 
         1. Create a histogram to visualize the most common salary ranges for employees.
 
         2. Create a bar chart of average salary by title.   
